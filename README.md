@@ -59,18 +59,14 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.facebook.com/ali.mohamed.7" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/ali.gamoo.5/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
   </a>
-  <a href="https://www.github.com/aligomaa3" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ali-mohamed/" target="_blank" rel="noreferrer">
+  
+  <a href="https://www.linkedin.com/in/ali-gomaa-b85a4031b/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://www.twitch.tv/ali_says_hi" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
-  </a>
+  
 </p>
 
 ## 📊 GitHub Stats
