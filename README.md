@@ -91,9 +91,4 @@
   </a>
 </div>
 
-## 🏆 Achievements
-<p align="center">
-  <a href="https://github.com/aligomaa3">
-    <img align="center" width="200%" src="https://github-profile-trophy.vercel.app/?username=aligomaa3&theme=radical&no-frame=true&margin-w=10" alt="Ali's GitHub Trophies" />
-  </a>
-</p>
+
