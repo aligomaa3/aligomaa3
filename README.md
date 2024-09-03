@@ -1,13 +1,13 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"/>
 ## I'm Ali Mohamed
-#### Backend Developer | Computer Science Student at Helwan University
-##### I am passionate about backend development using Python. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field. Connect with me to discuss internships or opportunities!
+#### Front-end Developer | Computer Science Student at Helwan University
+##### I am passionate about front-end development and web design. I am dedicated to enhancing my skills in creating visually appealing and user-friendly websites. Currently, I am working with the React framework to build dynamic and responsive web applications. I'm looking forward to contributing to innovative web design projects and gaining valuable experience in the field.
 
 🌍 Location: Cairo
 
 ✉️ Email: gomaaali226@gmail.com
 
-🧠 Currently Learning: Django
+🧠 Currently Learning: React
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Ali;I'm+a+Python+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
